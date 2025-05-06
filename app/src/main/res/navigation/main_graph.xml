@@ -22,7 +22,7 @@
         tools:layout="@layout/fragment_palmestry" />
     <activity
         android:id="@+id/mainActivity"
-        android:name="com.example.horoscoapp.MainActivity"
+        android:name="com.example.horoscoapp.ui.MainActivity"
         android:label="activity_main"
         tools:layout="@layout/activity_main" />
 </navigation>
